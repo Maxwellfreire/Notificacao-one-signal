@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492356110329",
+    "firebase_url": "https://notificacaoteste-40d85.firebaseio.com",
+    "project_id": "notificacaoteste-40d85",
+    "storage_bucket": "notificacaoteste-40d85.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492356110329:android:32241572a24ceb2c",
+        "android_client_info": {
+          "package_name": "br.com.notificacao.maxwell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492356110329-krjahpa52bof73es4ttrbuq9lgisga2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNaqL2JmQIhH900Jnfgk3mxkmc8X7hajY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492356110329-krjahpa52bof73es4ttrbuq9lgisga2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
